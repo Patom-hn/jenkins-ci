@@ -1,3 +1,3 @@
 please read read.md and read this file.
-this is tips.
+2 this is tips.
 you can test your "git" command with this git depository.
